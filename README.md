@@ -2,12 +2,11 @@
 
 _Transparent PNG templates for TurboGrafx-16 and PC Engine box art._
 
-The goal is to create a set of matching format box art graphics for TG16 and PCE games.
-It's for the future. It's for when some youngster goes to study an old game, he sees the cover art and it's kind of on an angle, the color's faded, there's a random sticker on it, the edges are torn, whatever.
-Another point is, much of this artwork is approximately square jewel case art, with little or no indication as to what the title is for. By using the TG16 box art, as opposed to just the jewel case art, it's easier to understand what you're lookng at. This issue is complicated further with PC Engine titles, as I believe they were sold just in the jewel cases. So, they didn't have box art, so to speak.
+The goal is to create a set of matching format box art graphics for TG16 and PCE games. It's for the future. It's for when some youngster goes to study an old game, he sees the cover art and it's kind of on an angle, the color's faded, there's a random sticker on it, the edges are torn, whatever. It doesn't represent the experience too well.
+
+Another point is, much of this artwork is approximately square jewel case art, with little or no indication as to what the title is for. By using the TG16 box art, as opposed to just the jewel case art, it's easier to understand what you're lookng at. This issue is complicated further with PC Engine titles, as I believe they were sold only in the jewel cases. So, they didn't have box art, so to speak.
 What we're saying is, we want good art, and we want to help make the titles less ambiguous, as to what they are for.
 Let's be frank, althought the Japanese artwork is generally better, those jewel case scans look horrible. They don't even bother to make them perfectly square.
-The template is based of a scan of a Galaga 90' box.
 
 __Templates are created as needed. Don't edit these templates. Please create an issue to request a new template.__
 
