@@ -9,7 +9,7 @@ What we're saying is, we want good art, and we want to help make the titles less
 Let's be frank, althought the Japanese artwork is generally better, those jewel case scans look horrible. They don't even bother to make them perfectly square.
 The template is based of a scan of a Galaga 90' box.
 
-__Templates are created as needed. Please create an issue to request a new template.__
+__Templates are created as needed. Don't edit these templates. Please create an issue to request a new template.__
 
 The swatches project is where color issues are addressed:
 https://github.com/vinceroni/TurboSwatches
