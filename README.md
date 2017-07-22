@@ -28,11 +28,29 @@ https://github.com/vinceroni/TurboSwatches
 
  ## Tips
 
+ Save as JPEG 100% quality.
  The 2x size design is designed to be reduced by half.
- Reduce the template by 50% using Bicubic Smoother.
- Reduce continuous tone game art with Bicubic Sharper.
- Reduce any other flat-shaded game art with Bicubic Smoother.
- Reducing flat graphic images with Bicubic Sharper creates a halo effect around the contrast edges.
+ Reduce flat graphic using Bicubic Smoother. Reducing flat graphic images with Bicubic Sharper creates a halo effect around the contrast edges.
+ Reduce continuous tone images with Bicubic Sharper. 
+
+ ## Console Notes
+
+ ### TurboGrafx
+The naming convention includes 3 designs for each genre - 1) Center logo 2) Corner logo 3) No logo. Then, there's an additional set of the same files at 1/2 scale. These are numbered 1-6.
+CD games use their own templates, using the TG CD logo.
+
+### PC Engine
+Includes a proposal for a PCE box design.
+The naming convention includes the system card and genre.
+
+### Turbo Duo
+Includes a proposal for a Duo box design.
+The naming convention currently attempts to simplify, as the design doesn't currently use a genre element. Many Duo games do include a genre in the cover the art, so this may need to be reconsidered. Color is currently arbitrary.
+There is, however, a version for HE and one for SCD2.
+
+### SuperGrafx
+Includes a proposal for a SG box design.
+The naming convention attempts to continue the simplified Duo approach, particularly as there are only about 8 titles made for this system. I think they should all just get the blue SG color, with the only variation being the system card badges.
 
  ## Issues
 
